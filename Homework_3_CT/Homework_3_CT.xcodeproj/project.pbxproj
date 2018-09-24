@@ -16,6 +16,7 @@
 		D4998DBE21568008006A38C5 /* Homework_3_CTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4998DBD21568008006A38C5 /* Homework_3_CTUITests.swift */; };
 		D4998DCC21568182006A38C5 /* UnitsAndModes.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4998DCB21568182006A38C5 /* UnitsAndModes.swift */; };
 		D4998DD221568B33006A38C5 /* Mode_Select_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4998DD121568B33006A38C5 /* Mode_Select_ViewController.swift */; };
+		D4EFED0021586A350017E7CA /* DecimalMinusTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EFECFF21586A350017E7CA /* DecimalMinusTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D4998DBF21568008006A38C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4998DCB21568182006A38C5 /* UnitsAndModes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnitsAndModes.swift; sourceTree = SOURCE_ROOT; };
 		D4998DD121568B33006A38C5 /* Mode_Select_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mode_Select_ViewController.swift; sourceTree = "<group>"; };
+		D4EFECFF21586A350017E7CA /* DecimalMinusTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DecimalMinusTextField.swift; path = "../../../../Downloads/DecimalMinusTextField-master-2/DecimalMinusDemo/DecimalMinusDemo/DecimalMinusTextField.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				D4998DA921568007006A38C5 /* Info.plist */,
 				D4998DCB21568182006A38C5 /* UnitsAndModes.swift */,
 				D4998DD121568B33006A38C5 /* Mode_Select_ViewController.swift */,
+				D4EFECFF21586A350017E7CA /* DecimalMinusTextField.swift */,
 			);
 			path = Homework_3_CT;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				D4998DCC21568182006A38C5 /* UnitsAndModes.swift in Sources */,
 				D4998DA021568004006A38C5 /* ViewController.swift in Sources */,
 				D4998DD221568B33006A38C5 /* Mode_Select_ViewController.swift in Sources */,
+				D4EFED0021586A350017E7CA /* DecimalMinusTextField.swift in Sources */,
 				D4998D9E21568004006A38C5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
