@@ -1,5 +1,5 @@
 //
-//  Mode_Select_ViewController.swift
+//  mode_select_viewControllerViewController.swift
 //  Homework_3_CT
 //
 //  Created by CIS Student on 9/22/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Mode_Select_ViewController: UIViewController {
+class mode_select_viewControllerViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
